@@ -1,0 +1,6 @@
+{
+  "name": "حق التملك - درس تفاعلي متكامل",
+  "description": "منصة تعليمية تفاعلية للدرس الرابع: حق التملك، تجمع بين الشرح المبسط، الأنشطة التطبيقية، دراسة الحالات الواقعية، والتقييم الختامي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
